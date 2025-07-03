@@ -2,17 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/hello-world/</loc>
+    <loc>https://young-log.github.io/posts/</loc>
     <lastmod>2025-07-03T19:44:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://young-log.github.io/</loc>
     <lastmod>2025-07-03T19:44:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-07-03T19:44:00+09:00</lastmod>
+    <loc>https://young-log.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://young-log.github.io/tags/</loc>
   </url>
 </urlset>
