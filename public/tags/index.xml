@@ -9,24 +9,10 @@
     <lastBuildDate>Sun, 07 Sep 2025 17:16:05 +0900</lastBuildDate>
     <atom:link href="https://bsy1141.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hugo</title>
-      <link>https://bsy1141.github.io/tags/hugo/</link>
+      <title>Webpack</title>
+      <link>https://bsy1141.github.io/tags/webpack/</link>
       <pubDate>Sun, 07 Sep 2025 17:16:05 +0900</pubDate>
-      <guid>https://bsy1141.github.io/tags/hugo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>블로그</title>
-      <link>https://bsy1141.github.io/tags/%EB%B8%94%EB%A1%9C%EA%B7%B8/</link>
-      <pubDate>Sun, 07 Sep 2025 17:16:05 +0900</pubDate>
-      <guid>https://bsy1141.github.io/tags/%EB%B8%94%EB%A1%9C%EA%B7%B8/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>소개</title>
-      <link>https://bsy1141.github.io/tags/%EC%86%8C%EA%B0%9C/</link>
-      <pubDate>Sun, 07 Sep 2025 15:00:00 +0900</pubDate>
-      <guid>https://bsy1141.github.io/tags/%EC%86%8C%EA%B0%9C/</guid>
+      <guid>https://bsy1141.github.io/tags/webpack/</guid>
       <description></description>
     </item>
   </channel>

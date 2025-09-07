@@ -5,11 +5,11 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>Tags | Young-dev Log</title>
+<title>Webpack | Young-dev Log</title>
 <meta name="keywords" content="">
 <meta name="description" content="개발자 Young의 기술 블로그입니다.">
 <meta name="author" content="Young">
-<link rel="canonical" href="https://bsy1141.github.io/tags/">
+<link rel="canonical" href="https://bsy1141.github.io/tags/webpack/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.8fe10233a706bc87f2e08b3cf97b8bd4c0a80f10675a143675d59212121037c0.css" integrity="sha256-j&#43;ECM6cGvIfy4Is8&#43;XuL1MCoDxBnWhQ2ddWSEhIQN8A=" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://bsy1141.github.io/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://bsy1141.github.io/favicon-16x16.png">
@@ -18,8 +18,8 @@
 <link rel="mask-icon" href="https://bsy1141.github.io/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="https://bsy1141.github.io/tags/index.xml">
-<link rel="alternate" hreflang="en" href="https://bsy1141.github.io/tags/">
+<link rel="alternate" type="application/rss+xml" href="https://bsy1141.github.io/tags/webpack/index.xml">
+<link rel="alternate" hreflang="en" href="https://bsy1141.github.io/tags/webpack/">
 <noscript>
     <style>
         #theme-toggle,
@@ -56,14 +56,14 @@
         }
 
     </style>
-</noscript><meta property="og:url" content="https://bsy1141.github.io/tags/">
+</noscript><meta property="og:url" content="https://bsy1141.github.io/tags/webpack/">
   <meta property="og:site_name" content="Young-dev Log">
-  <meta property="og:title" content="Tags">
+  <meta property="og:title" content="Webpack">
   <meta property="og:description" content="개발자 Young의 기술 블로그입니다.">
   <meta property="og:locale" content="en-us">
   <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Tags">
+<meta name="twitter:title" content="Webpack">
 <meta name="twitter:description" content="개발자 Young의 기술 블로그입니다.">
 
 </head>
@@ -111,16 +111,37 @@
         </ul>
     </nav>
 </header>
-<main class="main">
-<header class="page-header">
-    <h1>Tags</h1>
+<main class="main"> 
+<header class="page-header"><div class="breadcrumbs"><a href="https://bsy1141.github.io/">Home</a>&nbsp;»&nbsp;<a href="https://bsy1141.github.io/tags/">Tags</a></div>
+  <h1>
+    Webpack
+    <a href="/tags/webpack/index.xml" title="RSS" aria-label="RSS">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" height="23">
+        <path d="M4 11a9 9 0 0 1 9 9" />
+        <path d="M4 4a16 16 0 0 1 16 16" />
+        <circle cx="5" cy="19" r="1" />
+      </svg>
+    </a>
+  </h1>
 </header>
 
-<ul class="terms-tags">
-    <li>
-        <a href="https://bsy1141.github.io/tags/webpack/">webpack <sup><strong><sup>1</sup></strong></sup> </a>
-    </li>
-</ul>
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Webpack Compiler hooks란?
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Webpack Compiler hooks 란? webpack의 컴파일 과정에서 특정 시점에 사용자가 정의한 기능을 수행하고 싶을 수 있음 → 해당 로직을 가능하게 만드는 hook이라고 생각하면 됨.
+즉, Webpack의 전체 빌드 라이프사이클 중 시점에 사용자가 직접 정의한 로직을 삽입할 수 있도록 제공되는 이벤트 기반 인터페이스
+compiler 객체로 접근 가능
+webpack 함수는 webpack 설정 객체를 제공하며, 콜백함수가 제공되면 webpack 컴파일러를 실행
+const webpack = require(&#34;webpack&#34;); webpack({}, (err, stats) =&gt; { if (err || stats.hasErrors()) { // ... } // 프로세싱 완료 }); 컴파일러 객체로 특정 hook을 호출할 수 있으므로, 컴파일러 객체가 무엇인지 알아야 호출 가능한 것이 아닌가?
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2025-09-07 17:16:05 +0900 KST'>September 7, 2025</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;358 words&nbsp;·&nbsp;Young</footer>
+  <a class="entry-link" aria-label="post link to Webpack Compiler hooks란?" href="https://bsy1141.github.io/posts/%EC%B2%AB%EB%B2%88%EC%A7%B8-%ED%8F%AC%EC%8A%A4%ED%8A%B8/"></a>
+</article>
     </main>
     
 <footer class="footer">
