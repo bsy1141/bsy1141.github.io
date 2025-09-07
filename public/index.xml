@@ -6,7 +6,14 @@
     <description>Recent content on Young-dev Log</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sun, 07 Sep 2025 17:16:05 +0900</lastBuildDate>
     <atom:link href="https://bsy1141.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Webpack Compiler hooks란?</title>
+      <link>https://bsy1141.github.io/posts/%EC%B2%AB%EB%B2%88%EC%A7%B8-%ED%8F%AC%EC%8A%A4%ED%8A%B8/</link>
+      <pubDate>Sun, 07 Sep 2025 17:16:05 +0900</pubDate>
+      <guid>https://bsy1141.github.io/posts/%EC%B2%AB%EB%B2%88%EC%A7%B8-%ED%8F%AC%EC%8A%A4%ED%8A%B8/</guid>
+      <description>Hugo 블로그 사용법과 Webpack Compiler hooks에 대한 상세한 설명을 제공합니다. 정적 사이트 생성기와 웹팩의 컴파일 과정을 이해해보세요.</description>
+    </item>
   </channel>
 </rss>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Young-dev Log</title>
-    <link>https://bsy1141.github.io/posts/</link>
-    <description>Recent content in Posts on Young-dev Log</description>
+    <title>Hugo on Young-dev Log</title>
+    <link>https://bsy1141.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on Young-dev Log</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Sep 2025 17:16:05 +0900</lastBuildDate>
-    <atom:link href="https://bsy1141.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bsy1141.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Webpack Compiler hooks란?</title>
       <link>https://bsy1141.github.io/posts/%EC%B2%AB%EB%B2%88%EC%A7%B8-%ED%8F%AC%EC%8A%A4%ED%8A%B8/</link>
