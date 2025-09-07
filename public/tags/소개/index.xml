@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>소개 on Young-dev Log</title>
+    <link>https://bsy1141.github.io/tags/%EC%86%8C%EA%B0%9C/</link>
+    <description>Recent content in 소개 on Young-dev Log</description>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Sep 2025 15:00:00 +0900</lastBuildDate>
+    <atom:link href="https://bsy1141.github.io/tags/%EC%86%8C%EA%B0%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>안녕하세요! Young-dev Log에 오신 것을 환영합니다</title>
+      <link>https://bsy1141.github.io/posts/blog-intro/</link>
+      <pubDate>Sun, 07 Sep 2025 15:00:00 +0900</pubDate>
+      <guid>https://bsy1141.github.io/posts/blog-intro/</guid>
+      <description>개발자 Young의 기술 블로그에 오신 것을 환영합니다. 앞으로 공유할 내용들을 소개합니다.</description>
+    </item>
+  </channel>
+</rss>

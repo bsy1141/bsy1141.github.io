@@ -2,3 +2,7 @@ baseURL = 'https://bsy1141.github.io/'
 languageCode = 'en-us'
 title = 'Young-dev Log'
 theme = "PaperMod"
+
+[params]
+  author = "Young"
+  description = "개발자 Young의 기술 블로그입니다."

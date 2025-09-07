@@ -15,5 +15,12 @@
       <guid>https://bsy1141.github.io/posts/%EC%B2%AB%EB%B2%88%EC%A7%B8-%ED%8F%AC%EC%8A%A4%ED%8A%B8/</guid>
       <description>Hugo 블로그 사용법과 Webpack Compiler hooks에 대한 상세한 설명을 제공합니다. 정적 사이트 생성기와 웹팩의 컴파일 과정을 이해해보세요.</description>
     </item>
+    <item>
+      <title>안녕하세요! Young-dev Log에 오신 것을 환영합니다</title>
+      <link>https://bsy1141.github.io/posts/blog-intro/</link>
+      <pubDate>Sun, 07 Sep 2025 15:00:00 +0900</pubDate>
+      <guid>https://bsy1141.github.io/posts/blog-intro/</guid>
+      <description>개발자 Young의 기술 블로그에 오신 것을 환영합니다. 앞으로 공유할 내용들을 소개합니다.</description>
+    </item>
   </channel>
 </rss>
